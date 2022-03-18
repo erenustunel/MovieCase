@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  MovieCase
 //
-//  Created by appcent on 13.03.2022.
+//  Created by Eren Üstünel on 13.03.2022.
 //
 
 import UIKit
